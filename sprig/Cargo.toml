@@ -1,0 +1,8 @@
+[package]
+name = "sprig"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+sprite = { path = "../sprite" }
